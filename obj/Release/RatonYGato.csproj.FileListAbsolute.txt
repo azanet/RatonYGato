@@ -1,0 +1,9 @@
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\bin\Release\RatonYGato.exe.config
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\bin\Release\RatonYGato.exe
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\bin\Release\RatonYGato.pdb
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\obj\Release\RatonYGato.frmRatAndCat.resources
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\obj\Release\RatonYGato.Properties.Resources.resources
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\obj\Release\RatonYGato.csproj.GenerateResource.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\obj\Release\RatonYGato.csproj.CoreCompileInputs.cache
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\obj\Release\RatonYGato.exe
+C:\Users\W7sp1_VStudio_Xmarin\Source\Repos\azanet\RatonYGato\obj\Release\RatonYGato.pdb
