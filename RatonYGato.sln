@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatonYGato", "RatonYGato.csproj", "{8F2CEAA0-50D9-4197-A3A4-FF2CA8BD897D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2CEAA0-50D9-4197-A3A4-FF2CA8BD897D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2CEAA0-50D9-4197-A3A4-FF2CA8BD897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2CEAA0-50D9-4197-A3A4-FF2CA8BD897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2CEAA0-50D9-4197-A3A4-FF2CA8BD897D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F129E8A4-7724-42B1-A2ED-2BC0F8D65D51}
+	EndGlobalSection
+EndGlobal
